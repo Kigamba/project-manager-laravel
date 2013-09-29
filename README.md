@@ -1,4 +1,4 @@
-project-manager-laravel
-=======================
+instapics-laravel
+=================
 
-A full featured project manager built in Laravel
+Instagram Clone, built in Laravel
